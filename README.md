@@ -13,22 +13,22 @@ The financial analysis for the reporting period shows significant movements acro
 
 ## Key Financial Metrics
 
-**Income: $280,913**
+**1. Income: $280,913**
 
 - Increased +24.6% vs. last month
 - Positive growth signals strong revenue inflow and improved client transactions.
 
-**Expenses: $230,534**
+**2. Expenses: $230,534**
 
 - Increased by +24.5% vs. last month
 - Expenses are rising almost at the same rate as income, suggesting limited net gains.
 
-**Savings: $245,810**
+**3. Savings: $245,810**
 
 - Declined by -27.0% vs. last month
 - Indicates weaker retention of income due to high expenses or reduced allocation to reserves.
 
-**Transfers: 796 total Transfer, 667 Transfers Completed and 129 Failed Transfer**
+**4. Transfers: 796 total Transfer, 667 Transfers Completed and 129 Failed Transfer**
 
 - Increased +61.0% vs. last month
 
