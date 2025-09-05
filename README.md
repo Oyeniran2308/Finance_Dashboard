@@ -7,6 +7,7 @@
 
 The financial analysis for the reporting period shows significant movements across income, expenses, savings, and transfers. While income has grown strongly, savings have declined, indicating a potential imbalance in financial management. Transaction performance also reveals a mixed outcome, with some failures that need attention.
 
+
 ### Key Financial Metrics
 
 **Income: $280,913**
